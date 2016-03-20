@@ -1,11 +1,11 @@
 # Obrigatórias
-## Matemática
+###### Matemática
 - [x] Cálculo I MAT001
 - [x] GAAL MAT038
 - [x] Cálculo II MAT039
 - [ ] Álgebra A MAT034
 
-## Computação
+###### Computação
 - [x] AEDS 1 DCC003
 - [x] FSI DCC044
 - [x] Discreta DCC111
@@ -26,7 +26,7 @@
 - [ ] Computadores e Sociedade DCC606
 - [ ] Monografia 2
 
-## Economia
+###### Economia
 - [x] Administração TGA CAD103
 - [x] Economia A 1 ECN101
 - [x] Estatística e Probabilidades EST031
@@ -37,7 +37,7 @@
 - [ ] Adm. Financeira CAD167
 - [ ] Adm. Mercadológica CAD164
 
-## Informação
+###### Informação
 - [ ] Usuários da Informação TGI004
 - [ ] Organização e Tratamento da Informação OTI071
 
@@ -67,49 +67,49 @@ Optativas concluídas: 0h/660h (0%)
 
 Eletivas concluídas: 45h/240h (18%)
 
-**Previsão após 2016/1 (3º período)**
+#### Previsão após 2016/1 (3º período)
 Obrigatórias concluídas: 960h/2100 (45%)
 
 Optativas concluídas: 0h/660h (0%)
 
 Eletivas concluídas: 45h/240h (18%)
 
-**Previsão após 2016/2 (4º período)**
+#### Previsão após 2016/2 (4º período)
 Obrigatórias concluídas: 1320h/2100 (62%)
 
 Optativas concluídas: 0h/660h (0%)
 
 Eletivas concluídas: 45h/240h (18%)
 
-**Previsão após 2017/1 (5º período)**
+#### Previsão após 2017/1 (5º período)
 Obrigatórias concluídas: 1620h/2100 (77%)
 
 Optativas concluídas: 60h/660h (9%)
 
 Eletivas concluídas: 105h/240h horas (43%)
 
-**Previsão após 2017/2 (6º período)**
+#### Previsão após 2017/2 (6º período)
 Obrigatórias concluídas: 1740h/2100 (82%)
 
 Optativas concluídas: 240h/660h (36%)
 
 Eletivas concluídas: 165h/240h (18%)
 
-**Previsão após 2018/1 (7º período)**
+#### Previsão após 2018/1 (7º período)
 Obrigatórias concluídas: 1860h/2100 (82%)
 
 Optativas concluídas: 480h/660h (72%)
 
 Eletivas concluídas: 165h/240h (18%)
 
-**Previsão após 2018/2 (8º período)**
+#### Previsão após 2018/2 (8º período)
 Obrigatórias concluídas: 2010h/2100 (95%)
 
 Optativas concluídas: 660h/660h (100%)
 
 Eletivas concluídas: 225h/240h (93%)
 
-**Previsão após 2019/1 (9º período)**
+#### Previsão após 2019/1 (9º período)
 Obrigatórias concluídas: 2100h/2100 (100%)
 
 Optativas concluídas: 660h/660h (100%)
