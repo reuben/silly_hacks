@@ -62,40 +62,56 @@
 
 # Totais
 Obrigatórias concluídas: 660h/2100 (31%)
+
 Optativas concluídas: 0h/660h (0%)
+
 Eletivas concluídas: 45h/240h (18%)
 
 **Previsão após 2016/1 (3º período)**
 Obrigatórias concluídas: 960h/2100 (45%)
+
 Optativas concluídas: 0h/660h (0%)
+
 Eletivas concluídas: 45h/240h (18%)
 
 **Previsão após 2016/2 (4º período)**
 Obrigatórias concluídas: 1320h/2100 (62%)
+
 Optativas concluídas: 0h/660h (0%)
+
 Eletivas concluídas: 45h/240h (18%)
 
 **Previsão após 2017/1 (5º período)**
 Obrigatórias concluídas: 1620h/2100 (77%)
+
 Optativas concluídas: 60h/660h (9%)
+
 Eletivas concluídas: 105h/240h horas (43%)
 
 **Previsão após 2017/2 (6º período)**
 Obrigatórias concluídas: 1740h/2100 (82%)
+
 Optativas concluídas: 240h/660h (36%)
+
 Eletivas concluídas: 165h/240h (18%)
 
 **Previsão após 2018/1 (7º período)**
 Obrigatórias concluídas: 1860h/2100 (82%)
+
 Optativas concluídas: 480h/660h (72%)
+
 Eletivas concluídas: 165h/240h (18%)
 
 **Previsão após 2018/2 (8º período)**
 Obrigatórias concluídas: 2010h/2100 (95%)
+
 Optativas concluídas: 660h/660h (100%)
+
 Eletivas concluídas: 225h/240h (93%)
 
 **Previsão após 2019/1 (9º período)**
 Obrigatórias concluídas: 2100h/2100 (100%)
+
 Optativas concluídas: 660h/660h (100%)
+
 Eletivas concluídas: 285h/240h (118%)
