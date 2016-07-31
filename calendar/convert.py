@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from urllib2 import urlopen
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 import re
 
 month_names = [
@@ -21,14 +21,28 @@ month_names = [
 
 month_nbr = dict([(month_names[i], i+1) for i in range(0, len(month_names))])
 
-def find_events(month):
-    events = []
-    for ev in month.find_next_siblings():
-        if ev.has_key('class') and 'ano' in ev['class']:
-            break
-        if ev.name == 'tr' and len(ev.contents) > 3:
-            events.append(ev)
-    return events
+YEAR_MONTH_REGEX = re.compile(r"(?:(?P<month>[^\W\d_]+) ?/? ?)?(?P<year>\d{4})?", re.UNICODE)
+
+def parse_year_month(candidates):
+    year = None
+    month = None
+    for p in candidates:
+        if not isinstance(p, Tag) or p.name != u'p':
+            continue
+        matches = YEAR_MONTH_REGEX.search(p.text)
+        if matches:
+            try:
+                if year is None:
+                    year = matches.group("year")
+                if month is None:
+                    month = matches.group("month")
+                if year is not None and month is not None:
+                    return year, month
+            except IndexError:
+                pass
+
+def find_events(month_table):
+    return month_table.find_all('tr')
 
 def parse_time(elem, month, year):
     timerange = re.compile("(\d{1,2}) *a *(\d{1,2})")
@@ -63,7 +77,7 @@ def create_tag(soup, tag, attrs):
     return t
 
 
-def create_event(soup, day, summary):
+def create_event(soup, start, end, summary):
     ev = create_tag(soup, 'div', {
         'class': 'vevent'
     })
@@ -73,59 +87,43 @@ def create_event(soup, day, summary):
     }))
     ev.append(create_tag(soup, 'span', {
         'class': 'dtstart',
-        'value': day
+        'value': start
     }))
     ev.append(create_tag(soup, 'span', {
         'class': 'dtend',
-        'value': day
+        'value': end
     }))
 
     return ev
 
-page = BeautifulSoup(urlopen('http://www.ufmg.br/conheca/calendario.shtml'))
+page = BeautifulSoup(urlopen('https://www.ufmg.br/conheca/calendario.shtml'), 'html.parser')
 out = BeautifulSoup(u'''
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+    <meta charset="UTF-8"/> 
     <title></title>
 </head>
-''')
+<body>
+</body>
+''', 'html.parser')
 
 out.title.string = page.title.string
 
-elems = page.table.find_all('tr', ['ano','mes'])
-for (year_elem, month_elem) in zip(elems[::2], elems[1::2]):
-    year = int(year_elem.td.string)
-    month = month_nbr[month_elem.td.string]
+for month_table in page.find_all('table'):
+    (year, month) = parse_year_month(month_table.previous_elements)
+    year = int(year)
+    month = month_nbr[month]
 
-    for event in find_events(month_elem):
-        event.name = 'div'
-        event['class'] = 'vevent'
+    for entry in find_events(month_table):
+        summary = entry.contents[5].text        
+        (start, end, twodays) = parse_time(entry.td, month, year)
 
-        summary = event.contents[-2]
-        summary.name = 'span'
-        summary['class'] = 'summary'
-        
-        (start, end, twodays) = parse_time(event.td, month, year)
-
-        for child in filter(lambda x: x != summary, event.contents):
-            child.extract()
-        
-        event.append(create_tag(page, 'span', {
-            'class': 'dtstart',
-            'value': start
-        }))
-
-        event.append(create_tag(page, 'span', {
-            'class': 'dtend',
-            'value': start if twodays else end
-        }))
+        ev = create_event(page, start, start if twodays else end, summary)
+        out.body.append(ev)
 
         if twodays:
-            # print 'two day event, %s & %s' % (start, end)
-            ev = create_event(page, end, summary.string.encode('utf-8'))
+            ev = create_event(page, end, end, summary)
             out.body.append(ev)
-
-        out.body.append(event)
 
 print out.prettify().encode('utf-8')
