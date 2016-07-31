@@ -4,7 +4,7 @@ from urllib2 import urlopen
 from bs4 import BeautifulSoup, Tag
 import re
 
-month_names = [
+MONTH_NAMES = [
     u'JANEIRO',
     u'FEVEREIRO',
     u'MARÇO',
@@ -19,9 +19,9 @@ month_names = [
     u'DEZEMBRO'
 ]
 
-month_nbr = dict([(month_names[i], i+1) for i in range(0, len(month_names))])
+MONTH_TO_NUMBER = dict(zip(MONTH_NAMES, range(1, len(MONTH_NAMES)+1)))
 
-YEAR_MONTH_REGEX = re.compile(r"(?:(?P<month>[^\W\d_]+) ?/? ?)?(?P<year>\d{4})?", re.UNICODE)
+YEAR_MONTH_REGEX = re.compile(r'(?:(?P<month>[^\W\d_]+) ?/? ?)?(?P<year>\d{4})?', re.UNICODE)
 
 def parse_year_month(candidates):
     year = None
@@ -33,97 +33,71 @@ def parse_year_month(candidates):
         if matches:
             try:
                 if year is None:
-                    year = matches.group("year")
+                    year = matches.group('year')
                 if month is None:
-                    month = matches.group("month")
+                    month = matches.group('month')
                 if year is not None and month is not None:
                     return year, month
             except IndexError:
                 pass
 
-def find_events(month_table):
-    return month_table.find_all('tr')
+TIME_RANGE_REGEX = re.compile(r"(\d{1,2}) *(a|e) *(\d{1,2})")
 
 def parse_time(elem, month, year):
-    timerange = re.compile("(\d{1,2}) *a *(\d{1,2})")
-    isrange = re.match(timerange, elem.string)
+    isrange = TIME_RANGE_REGEX.match(elem.string)
 
     end = None
-    datestr = "%d-%.2d-%%.2d" % (year, month)
+    datestr = "%d%.2d%%.2d" % (year, month)
 
     if isrange:
         start = int(isrange.group(1))
-        end = int(isrange.group(2))
+        end = int(isrange.group(3))
         return (datestr % start, datestr % end, False)
 
-    twodays = re.compile("(\d{1,2}) *e *(\d{1,2})")
-    istwodays = re.match(twodays, elem.string)
-
+    istwodays = False
+    if isrange:
+        istwodays = isrange.group(2) == "e"
+    
     if istwodays:
         day1 = int(istwodays.group(1))
-        day2 = int(istwodays.group(2))
+        day2 = int(istwodays.group(3))
+        if day2 == day1+1:
+            return (datestr % day1, datestr % day2, False)
         return (datestr % day1, datestr % day2, True)
 
     day = int(elem.string)
     return (datestr % day, datestr % day, False)
 
-def create_tag(soup, tag, attrs):
-    t = soup.new_tag(tag)
-    for attr in attrs:
-        if attr == 'value':
-            t.string = attrs[attr]
-        else:
-            t[attr] = attrs[attr]
-    return t
-
-
 def create_event(soup, start, end, summary):
-    ev = create_tag(soup, 'div', {
-        'class': 'vevent'
-    })
-    ev.append(create_tag(soup, 'span', {
-        'class': 'summary',
-        'value': summary
-    }))
-    ev.append(create_tag(soup, 'span', {
-        'class': 'dtstart',
-        'value': start
-    }))
-    ev.append(create_tag(soup, 'span', {
-        'class': 'dtend',
-        'value': end
-    }))
-
-    return ev
+    return u'''
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=pt-BR;CHARSET=utf-8:{}
+DTSTART;VALUE=DATE:{}
+DTEND;VALUE=DATE:{}
+END:VEVENT
+'''.format(summary, start, end)
 
 page = BeautifulSoup(urlopen('https://www.ufmg.br/conheca/calendario.shtml'), 'html.parser')
-out = BeautifulSoup(u'''
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8"/> 
-    <title></title>
-</head>
-<body>
-</body>
-''', 'html.parser')
-
-out.title.string = page.title.string
+out = u'''BEGIN:VCALENDAR
+X-WR-CALNAME;CHARSET=utf-8:{}
+VERSION:2.0
+METHOD:PUBLISH
+'''.format(page.title.string)
 
 for month_table in page.find_all('table'):
     (year, month) = parse_year_month(month_table.previous_elements)
     year = int(year)
-    month = month_nbr[month]
+    month = MONTH_TO_NUMBER[month]
 
-    for entry in find_events(month_table):
-        summary = entry.contents[5].text        
+    for entry in month_table.find_all('tr'):
+        summary = entry.contents[5].text
         (start, end, twodays) = parse_time(entry.td, month, year)
 
         ev = create_event(page, start, start if twodays else end, summary)
-        out.body.append(ev)
+        out += ev
 
         if twodays:
             ev = create_event(page, end, end, summary)
-            out.body.append(ev)
+            out += ev
 
-print out.prettify().encode('utf-8')
+print out.encode('utf-8')
