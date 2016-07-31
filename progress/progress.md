@@ -3,19 +3,19 @@
 - [x] Cálculo I MAT001
 - [x] GAAL MAT038
 - [x] Cálculo II MAT039
-- [ ] Álgebra A MAT034
+- [x] Álgebra A MAT034
 
 ###### Computação
 - [x] AEDS 1 DCC003
 - [x] FSI DCC044
 - [x] Discreta DCC111
 - [x] AEDS 2 DCC004
-- [ ] ISL DCC114
+- [x] ISL DCC114
 - [x] AEDS 3 DCC004
 - [ ] IDB DCC011
 - [ ] OC1 DCC006
 - [ ] IHC DCC194
-- [ ] PM DCC052
+- [x] PM DCC052
 - [ ] Eng Soft 1 DCC603
 - [ ] FTC DCC129
 - [ ] SO DCC605
@@ -38,8 +38,8 @@
 - [ ] Adm. Mercadológica CAD164
 
 ###### Informação
-- [ ] Usuários da Informação TGI004
-- [ ] Organização e Tratamento da Informação OTI071
+- [x] Usuários da Informação TGI004
+- [x] Organização e Tratamento da Informação OTI071
 
 # Optativas
 - [ ] OC2 DCC007
