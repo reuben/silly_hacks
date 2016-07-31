@@ -71,7 +71,7 @@ def parse_time(elem, month, year):
 def create_event(soup, start, end, summary):
     return u'''
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=pt-BR;CHARSET=utf-8:{}
+SUMMARY;LANGUAGE=pt-BR:{}
 DTSTART;VALUE=DATE:{}
 DTEND;VALUE=DATE:{}
 END:VEVENT
@@ -79,7 +79,7 @@ END:VEVENT
 
 page = BeautifulSoup(urlopen('https://www.ufmg.br/conheca/calendario.shtml'), 'html.parser')
 out = u'''BEGIN:VCALENDAR
-X-WR-CALNAME;CHARSET=utf-8:{}
+X-WR-CALNAME:{}
 VERSION:2.0
 METHOD:PUBLISH
 '''.format(page.title.string)
