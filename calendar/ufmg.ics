@@ -1,1487 +1,1735 @@
 BEGIN:VCALENDAR
+PRODID:https://github.com/reuben/silly_hacks/calendar/convert.py
 X-WR-CALNAME:Calendário Acadêmico - UFMG - Universidade Federal de Minas Gerais
 VERSION:2.0
 METHOD:PUBLISH
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Finados
 DTSTART;VALUE=DATE:20151102
 DTEND;VALUE=DATE:20151102
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação do resultado do Exame de Proficiência em Línguas Estrangeiras, realizado pelo CENEX/FALE, para os candidatos aos Programas de Intercâmbio Internacional da Diretoria de relações Internacionais - DRI.
 DTSTART;VALUE=DATE:20151104
 DTEND;VALUE=DATE:20151104
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para lançamento, no Sistema Acadêmico de Pós-Graduação, pelos Colegiados de Cursos de Pós-Graduação stricto e lato sensu, da oferta de atividades acadêmicas para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20151109
 DTEND;VALUE=DATE:20151124
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio aos Colegiados de Cursos de Pós-Graduação, pelos Departamentos Acadêmicos ou estruturas equivalentes, da oferta de atividades acadêmicas e da alocação de encargos didáticos para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20151113
 DTEND;VALUE=DATE:20151113
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Mostra das Profissões
 DTSTART;VALUE=DATE:20151114
 DTEND;VALUE=DATE:20151115
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Proclamação da República
 DTSTART;VALUE=DATE:20151115
 DTEND;VALUE=DATE:20151115
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=pt-BR:Feriado Municipal em Montes Claros: Dia da Consciência Negra\n          Dia não letivo somente no Campus de Montes Claros
+DTSTAMP:20160731T162240Z
+SUMMARY;LANGUAGE=pt-BR:Feriado Municipal em Montes Claros: Dia da Consciência Negra\n          Dia não letivo somente no Campus de Montes Claros
 DTSTART;VALUE=DATE:20151120
 DTEND;VALUE=DATE:20151120
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para lançamento, pelos Colegiados de Cursos de Pós-Graduação stricto sensu, do calendário para realização da matrícula online do 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20151130
 DTEND;VALUE=DATE:20151130
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para Registro Acadêmico nos cursos de pós-graduação, para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20151201
 DTEND;VALUE=DATE:20151201
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de matrícula online, pelos alunos de pós-graduação stricto sensu, para o 1º período letivo de 2016 (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20151201
 DTEND;VALUE=DATE:20151201
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de matrícula presencial, pelos alunos de pós-graduação lato sensu, nos Colegiados de cursos para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20151201
 DTEND;VALUE=DATE:20151201
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR: Feriado Municipal em Belo Horizonte: Imaculada Conceição\nDia não letivo somente nos Campi de Belo Horizonte
 DTSTART;VALUE=DATE:20151208
 DTEND;VALUE=DATE:20151208
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período de inscrição à colação de grau pelos prováveis formandos do 2º período letivo de 2015, nas Unidades Acadêmicas.
 DTSTART;VALUE=DATE:20151209
 DTEND;VALUE=DATE:20151214
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Faculdade de Direito (1892).
 DTSTART;VALUE=DATE:20151210
 DTEND;VALUE=DATE:20151210
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento de trancamento total de matrícula do 2º período letivo de 2015 pelos alunos de pós-graduação
 DTSTART;VALUE=DATE:20151216
 DTEND;VALUE=DATE:20151216
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:ENCERRAMENTO DO 2º PERÍODO LETIVO DE 2015 PARA ATIVIDADES DA PÓS-GRADUAÇÃO
 DTSTART;VALUE=DATE:20151216
 DTEND;VALUE=DATE:20151216
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data limite para Registro Acadêmico e matrícula de alunos de pós-graduação stricto sensu selecionados por meio de fluxo contínuo para o ano de 2015.
 DTSTART;VALUE=DATE:20151216
 DTEND;VALUE=DATE:20151216
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Faculdade de Ciências Econômicas (1941).
 DTSTART;VALUE=DATE:20151220
 DTEND;VALUE=DATE:20151220
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento de trancamento total de matrícula do 2º período letivo de 2015 pelos alunos de graduação.
 DTSTART;VALUE=DATE:20151222
 DTEND;VALUE=DATE:20151222
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:ENCERRAMENTO DO 2º PERÍODO LETIVO DE 2015 PARA ATIVIDADES DA GRADUAÇÃO
 DTSTART;VALUE=DATE:20151222
 DTEND;VALUE=DATE:20151222
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de dispensa de atividades acadêmicas, por aproveitamento de estudos, nos Colegiados de Cursos de Graduação, pelos alunos veteranos (Resolução CEPE nº 16/2014).
 DTSTART;VALUE=DATE:20151223
 DTEND;VALUE=DATE:20151223
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Natal
 DTSTART;VALUE=DATE:20151225
 DTEND;VALUE=DATE:20151225
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento, no Sistema Diário de Classe Eletrônico, pelos docentes, dos resultados finais do 2º período letivo de 2015, em atividades acadêmicas de graduação.
 DTSTART;VALUE=DATE:20151228
 DTEND;VALUE=DATE:20151228
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para colação de grau dos concluintes do 2º período letivo de 2015.
 DTSTART;VALUE=DATE:20151230
 DTEND;VALUE=DATE:20151230
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Confraternização Universal
 DTSTART;VALUE=DATE:20160101
 DTEND;VALUE=DATE:20160101
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento, no Sistema Diário de Classe Eletrônico, pelos docentes, dos resultados finais do 2º período letivo de 2015, em atividades acadêmicas de pós-graduação.
 DTSTART;VALUE=DATE:20160104
 DTEND;VALUE=DATE:20160104
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento dos resultados de exames especiais do 2º período letivo de 2015, no Sistema Diário de Classe Eletrônico, pelos docentes.
 DTSTART;VALUE=DATE:20160104
 DTEND;VALUE=DATE:20160104
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento de continuidade de estudos para ingresso no 1º período letivo de 2016 nas Seções de Ensino.
 DTSTART;VALUE=DATE:20160104
 DTEND;VALUE=DATE:20160105
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento de ingresso de refugiados políticos para entrada no 1º período letivo de 2016 (Resolução CEPE nº 03/2004).
 DTSTART;VALUE=DATE:20160104
 DTEND;VALUE=DATE:20160106
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para conferência, no Sistema Acadêmico (Siga), pelos Colegiados de Curso de Graduação, dos concluintes do 2º período letivo de 2015 com continuidade de estudos deferida para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160114
 DTEND;VALUE=DATE:20160114
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação e comunicação ao DRCA, pelos Colegiados de Cursos de Graduação, dos requerimentos de continuidade de estudos aprovados para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160118
 DTEND;VALUE=DATE:20160118
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio, ao DRCA, dos processos de Refugiados Políticos para ingresso no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160120
 DTEND;VALUE=DATE:20160120
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para conferência dos concluintes do 2º período letivo de 2015, no Sistema Acadêmico de Graduação (Siga), pelos Colegiados de cursos de Graduação. 
 DTSTART;VALUE=DATE:20160120
 DTEND;VALUE=DATE:20160120
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período de realização da 2ª etapa do Concurso Vestibular 2016 - Habilidades Específicas.
 DTSTART;VALUE=DATE:20160120
 DTEND;VALUE=DATE:20160122
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de transferência para a UFMG, junto ao DRCA, pelos estudantes-convênio PEC-G.
 DTSTART;VALUE=DATE:20160125
 DTEND;VALUE=DATE:20160125
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para requerimento, no Sistema Acadêmico de Graduação - Siga, pelos alunos veteranos de graduação, de matrícula do 1º período letivo de 2016 e para preenchimento de questionário de avaliação de disciplinas.
 DTSTART;VALUE=DATE:20160127
 DTEND;VALUE=DATE:20160127
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para registro acadêmico dos alunos do PEC-G e refugiados políticos ingressantes no 1o período letivo de 2016.
 DTSTART;VALUE=DATE:20160129
 DTEND;VALUE=DATE:20160129
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do 10º Festival de Verão da UFMG
 DTSTART;VALUE=DATE:20160131
 DTEND;VALUE=DATE:20160131
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Término do período para requerimento, no Sistema Acadêmico de Graduação- Siga, pelos alunos veteranos de graduação, de matrícula do 1º período letivo de 2016 e para preenchimento de questionário de avaliação de disciplinas.
 DTSTART;VALUE=DATE:20160201
 DTEND;VALUE=DATE:20160201
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Faculdade de Odontologia (1907).
 DTSTART;VALUE=DATE:20160203
 DTEND;VALUE=DATE:20160203
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Término do 10º Festival de Verão da UFMG
 DTSTART;VALUE=DATE:20160204
 DTEND;VALUE=DATE:20160204
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Carnaval
 DTSTART;VALUE=DATE:20160206
 DTEND;VALUE=DATE:20160209
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Cinzas
 DTSTART;VALUE=DATE:20160210
 DTEND;VALUE=DATE:20160210
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação do resultado da matrícula para o 1º período letivo de 2016 aos alunos veteranos de graduação.
 DTSTART;VALUE=DATE:20160210
 DTEND;VALUE=DATE:20160210
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para envio de requerimento de acerto de matrícula no Sistema Acadêmico de Graduação - Siga (inclusão de novas atividades) pelos alunos veteranos de graduação, para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160213
 DTEND;VALUE=DATE:20160216
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Curso de verão de Português como Língua Adicional para alunos internacionais.
 DTSTART;VALUE=DATE:20160215
 DTEND;VALUE=DATE:20160226
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para registro acadêmico e matrícula dos classificados para o 1º período letivo de 2016, no Concurso Vestibular 2016 - Habilidades Específicas, conforme escala e instruções divulgadas pelo DRCA na página www.ufmg.br/drca.
 DTSTART;VALUE=DATE:20160216
 DTEND;VALUE=DATE:20160217
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para registro acadêmico dos classificados para o 1º período letivo de 2016, no Processo Seletivo de Transferência e Obtenção de Novo Título 2016, conforme instruções e escala divulgadas pelo DRCA no endereço eletrônico www.ufmg.br/drca.
 DTSTART;VALUE=DATE:20160216
 DTEND;VALUE=DATE:20160217
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de inscrição ao Exame de Proficiência em Línguas Estrangeiras, realizado pelo CENEX/FALE, para candidatos aos Programas de Intercâmbio Internacional da Diretoria de Relações Internacionais-DRI, conforme previsto no Edital FALE/CENEX.
 DTSTART;VALUE=DATE:20160222
 DTEND;VALUE=DATE:20160222
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite de matrícula online, pelos alunos de Pós-Graduação stricto sensu, para o 1º período letivo de 2016 (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20160223
 DTEND;VALUE=DATE:20160223
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Semana de orientação do estudante internacional no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160223
 DTEND;VALUE=DATE:20160225
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para solicitação, no Sistema Acadêmico de Graduação - Siga, pelos alunos veteranos de graduação, de matrícula em atividades de formação livre, para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160223
 DTEND;VALUE=DATE:20160224
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para efetivação da matrículaem disciplinas de pós-graduação stricto sensu , no Sistema Acadêmico de Pós-Graduação, para o 1º período letivo de 2016 (matrícula regular e eletiva), pelos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160224
 DTEND;VALUE=DATE:20160224
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Teste de nivelamento do curso de Português como Língua Adicional para estudantes internacionais no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160225
 DTEND;VALUE=DATE:20160225
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Acerto presencial de matrícula pelos alunos de pós-graduação, nos Colegiados de Cursos de Pós-Graduação stricto sensu (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20160225
 DTEND;VALUE=DATE:20160226
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para lançamento, no Sistema Acadêmico de Pós-Graduação, de encargos didáticos para o 1º período letivo de 2016 pelos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160226
 DTEND;VALUE=DATE:20160226
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para realização de matrícula presencial pelos alunos de pós-graduação lato-sensu, para o 1º período letivo de 2016, nos Colegiados de Cursos.
 DTSTART;VALUE=DATE:20160226
 DTEND;VALUE=DATE:20160226
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação do resultado da solicitação de matrícula dos alunos veteranos de graduação em atividades de formação livre, para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160226
 DTEND;VALUE=DATE:20160226
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR: Aniversário de criação das seguintes Unidades (1968):\n\nFaculdade de Educação;\nFaculdade de Letras;\nInstituto de Ciências Biológicas;\nInstituto de Ciências Exatas;\nInstituto de Geociências.\n
 DTSTART;VALUE=DATE:20160228
 DTEND;VALUE=DATE:20160228
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio pelos Colegiados de Cursos de Pós-Graduação ao DRCA, da documentação para registro acadêmico de alunos de Pós-Graduação para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160229
 DTEND;VALUE=DATE:20160229
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação dos resultados de dispensa de disciplinas dos classificados no Concurso Vestibular 2016 - Habilidades Específicas e Processo Seletivo para Transferência e Obtenção de Novo Título 2016 - ingressantes no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160229
 DTEND;VALUE=DATE:20160229
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Término do período para registro acadêmico dos alunos do PEC-G e refugiados políticos ingressantes no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160229
 DTEND;VALUE=DATE:20160229
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Veterinária (1932).
 DTSTART;VALUE=DATE:20160301
 DTEND;VALUE=DATE:20160301
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Ciência da Informação (1950).
 DTSTART;VALUE=DATE:20160301
 DTEND;VALUE=DATE:20160301
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Matrícula em disciplinas nos Colegiados dos Cursos de Graduação, pelos classificados no Processo Seletivo de Transferência e Obtenção de Novo Título/2016, para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160302
 DTEND;VALUE=DATE:20160302
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Reformulação de matrícula dos ingressantes no 1º período letivo de 2016 do Concurso Vestibular 2016 - Habilidades Específicas que solicitaram dispensa de disciplinas aos Colegiados de Cursos de Graduação.
 DTSTART;VALUE=DATE:20160302
 DTEND;VALUE=DATE:20160302
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para registro acadêmico e matrícula de alunos intercambistas de graduação ingressantes no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160302
 DTEND;VALUE=DATE:20160302
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:INÍCIO DO 1º PERÍODO LETIVO DE 2016
 DTSTART;VALUE=DATE:20160303
 DTEND;VALUE=DATE:20160303
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recepção aos calouros dos cursos de graduação
 DTSTART;VALUE=DATE:20160303
 DTEND;VALUE=DATE:20160304
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para solicitação online, pelos Colegiados de Cursos de Pós-Graduação stricto sensu, de abertura de vagas a serem oferecidas nos processos seletivos do 1º e 2º períodos letivos de 2017.
 DTSTART;VALUE=DATE:20160303
 DTEND;VALUE=DATE:20160303
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Faculdade de Medicina (1911).
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160305
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de matrícula em disciplinas de graduação, pelos alunos de pós-graduação, nas Unidades Acadêmicas responsáveis pela oferta das disciplinas.
 DTSTART;VALUE=DATE:20160307
 DTEND;VALUE=DATE:20160307
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de matrícula em disciplinas de pós-graduação pelos alunos de graduação, nos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160307
 DTEND;VALUE=DATE:20160307
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Término do período de inscrição ao Exame de Proficiência em Línguas Estrangeiras realizado pelo CENEX/FALE, para candidatos aos Programas de Intercâmbio Internacional, da Diretoria de Relações Internacionais-DRI, conforme previsto no Edital FALE/CENEX.
 DTSTART;VALUE=DATE:20160308
 DTEND;VALUE=DATE:20160308
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Matrícula presencial em disciplinas de graduação pelos alunos de pós-graduação, nas Unidades Acadêmicas responsáveis pela oferta das disciplinas.
 DTSTART;VALUE=DATE:20160308
 DTEND;VALUE=DATE:20160308
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Matrícula presencial em disciplinas de pós-graduação pelos alunos de graduação, nos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160308
 DTEND;VALUE=DATE:20160308
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de matrícula em disciplina isolada de graduação e pós-graduação para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160310
 DTEND;VALUE=DATE:20160310
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação dos resultados dos requerimentos de matrícula em disciplinas isoladas para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160314
 DTEND;VALUE=DATE:20160314
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período de matrícula em disciplinas isoladas de graduação e pós-graduação para o 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160315
 DTEND;VALUE=DATE:20160316
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20160316
 DTEND;VALUE=DATE:20160316
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período de realização do Exame de Proficiência em Línguas Estrangeiras pelo CENEX/FALE, para os candidatos aos Programas de Intercâmbio Internacional da Diretoria de Relações Internacionais - DRI, conforme previsto no Edital FALE/CENEX.
 DTSTART;VALUE=DATE:20160322
 DTEND;VALUE=DATE:20160323
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio ao DRCA, da relação de alunos que concluíram a pós-graduação no 2º período letivo de 2015.
 DTSTART;VALUE=DATE:20160323
 DTEND;VALUE=DATE:20160323
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar
 DTSTART;VALUE=DATE:20160324
 DTEND;VALUE=DATE:20160324
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Paixão de Cristo
 DTSTART;VALUE=DATE:20160325
 DTEND;VALUE=DATE:20160325
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar 
 DTSTART;VALUE=DATE:20160326
 DTEND;VALUE=DATE:20160326
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20160329
 DTEND;VALUE=DATE:20160329
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para acertos de matrícula da pós-graduação, referentes ao 1º período letivo de 2016, no Sistema Acadêmico de Pós-Graduação.
 DTSTART;VALUE=DATE:20160331
 DTEND;VALUE=DATE:20160331
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Belas-Artes (1957).
 DTSTART;VALUE=DATE:20160405
 DTEND;VALUE=DATE:20160405
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação do resultado do Exame de Proficiência em Línguas Estrangeiras realizado pelo CENEX/FALE, para os candidatos aos Programas de Intercâmbio Internacional da Diretoria de Relações Internacionais - DRI.
 DTSTART;VALUE=DATE:20160407
 DTEND;VALUE=DATE:20160407
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20160411
 DTEND;VALUE=DATE:20160411
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento de trancamento parcial de matrícula em atividades acadêmicas semestrais.
 DTSTART;VALUE=DATE:20160414
 DTEND;VALUE=DATE:20160414
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação (no endereço eletrônico www.ufmg.br/dri), pela Diretoria de Relações Internacionais - DRI, do Edital do processo seletivo do programa MINASMUNDI 2016, para intercâmbio internacional de graduação.
 DTSTART;VALUE=DATE:20160415
 DTEND;VALUE=DATE:20160415
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para solicitação aos Colegiados de Curso de graduação, pelos alunos de graduação, de mudança de percurso curricular (modalidade / habilitação / ênfase), para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160414
 DTEND;VALUE=DATE:20160415
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Faculdade de Filosofia e Ciências Humanas (1939).
 DTSTART;VALUE=DATE:20160421
 DTEND;VALUE=DATE:20160421
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação do Centro Pedagógico (1958).
 DTSTART;VALUE=DATE:20160421
 DTEND;VALUE=DATE:20160421
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Tiradentes
 DTSTART;VALUE=DATE:20160421
 DTEND;VALUE=DATE:20160421
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar
 DTSTART;VALUE=DATE:20160422
 DTEND;VALUE=DATE:20160422
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar
 DTSTART;VALUE=DATE:20160423
 DTEND;VALUE=DATE:20160423
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para análise e lançamento no Sistema Acadêmico de Graduação - Siga, pelos Colegiado de Cursos de Graduação, de mudança de percurso curricular dos alunos de graduação.
 DTSTART;VALUE=DATE:20160425
 DTEND;VALUE=DATE:20160425
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Música (1925).
 DTSTART;VALUE=DATE:20160428
 DTEND;VALUE=DATE:20160428
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Dia do Trabalho
 DTSTART;VALUE=DATE:20160501
 DTEND;VALUE=DATE:20160501
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para solicitação online, pelos Colegiados de Cursos/Comissões Coordenadoras de Cursos de Pós-Graduação lato sensu, de vagas e de reoferecimento de cursos para os processos seletivos do 1º e 2º semestres letivos de 2017 e 2018.
 DTSTART;VALUE=DATE:20160502
 DTEND;VALUE=DATE:20160502
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento, pelos alunos de graduação, de mudança de turno para o 2º período letivo de 2016, nos Colegiados de Cursos de Graduação.
 DTSTART;VALUE=DATE:20160509
 DTEND;VALUE=DATE:20160509
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:XV Jornada de Extensão da UFMG
 DTSTART;VALUE=DATE:20160511
 DTEND;VALUE=DATE:20160511
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio ao DRCA, pelos Colegiados de Cursos de Graduação, dos processos deferidos de reinclusão administrativa de alunos desligados nos termos do art. 41 do Regimento Geral da UFMG.
 DTSTART;VALUE=DATE:20160513
 DTEND;VALUE=DATE:20160513
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para lançamento, no Sistema Acadêmico de Graduação - Siga, e para comunicação ao DRCA, pelos Colegiados dos Cursos de Graduação, da relação de alunos com mudança de turno aprovada para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160513
 DTEND;VALUE=DATE:20160513
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para solicitação, aos Departamentos Acadêmicos ou estruturas equivalentes, pelos Colegiados de Cursos de Pós-Graduação, de oferta de atividades acadêmicas e de alocação de encargos didáticos para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160513
 DTEND;VALUE=DATE:20160513
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para inscrição no Portal Minha UFMG ao processo seletivo do Programa MINASMUNDI 2016, para intercâmbio internacional de graduação. 
 DTSTART;VALUE=DATE:20160516
 DTEND;VALUE=DATE:20160520
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20160518
 DTEND;VALUE=DATE:20160518
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Engenharia (1911).
 DTSTART;VALUE=DATE:20160521
 DTEND;VALUE=DATE:20160521
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Corpus Christi
 DTSTART;VALUE=DATE:20160526
 DTEND;VALUE=DATE:20160526
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar 
 DTSTART;VALUE=DATE:20160527
 DTEND;VALUE=DATE:20160527
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar 
 DTSTART;VALUE=DATE:20160528
 DTEND;VALUE=DATE:20160528
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação pelo DRCA, no endereço eletrônico www.ufmg.br/drca, das vagas remanescentes de graduação, referentes ao 1º período letivo de 2016, a serem ofertadas para os procedimentos de reopção e rematrícula.
 DTSTART;VALUE=DATE:20160530
 DTEND;VALUE=DATE:20160530
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para solicitação online, à Pró-Reitoria de Pós-Graduação, pelos Colegiados de Cursos de Pós-Graduação stricto sensu, de abertura  de vagas a serem oferecidas nos processos seletivos do 1º e 2º períodos letivos de 2017.
 DTSTART;VALUE=DATE:20160530
 DTEND;VALUE=DATE:20160530
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento de ingresso de refugiados políticos no 2º período letivo de 2016 (Resolução CEPE nº 03/2004).
 DTSTART;VALUE=DATE:20160601
 DTEND;VALUE=DATE:20160603
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para reformulação dos Planos de Estudos e para a inclusão de atividades de Formação Complementar Aberta para o 2º período letivo de 2016, pelos alunos de graduação, no Sistema Acadêmico de Graduação-Siga.
 DTSTART;VALUE=DATE:20160602
 DTEND;VALUE=DATE:20160605
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio aos Colegiados de Cursos de Pós-Graduação, pelos Departamentos Acadêmicos ou estruturas equivalentes, da oferta de atividades acadêmicas e da alocação de encargos didáticos para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160606
 DTEND;VALUE=DATE:20160606
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento presencial de reopção e rematrícula pelos alunos de graduação, no DRCA.
 DTSTART;VALUE=DATE:20160607
 DTEND;VALUE=DATE:20160608
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para lançamento no Sistema Acadêmico de Pós-Graduação, pelos Colegiados de Cursos de Pós-Graduação stricto e lato sensu, da oferta de atividades acadêmicas  para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160607
 DTEND;VALUE=DATE:20160621
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para inscrição à colação de grau dos prováveis formandos de graduação do 1º período letivo de 2016, nas Unidades Acadêmicas.
 DTSTART;VALUE=DATE:20160613
 DTEND;VALUE=DATE:20160617
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento, nos Colegiados de Cursos, de matrícula em atividades a serem oferecidas no intervalo entre o 1º e o 2º períodos letivos de 2016 (Resolução CEPE nº 13/2015, de 10/11/2015).
 DTSTART;VALUE=DATE:20160615
 DTEND;VALUE=DATE:20160617
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para lançamento, no Sistema Acadêmico de Pós-Graduação, do calendário para realização da matrícula online para o 2º período letivo de 2016 pelos Colegiados de Cursos de Pós-Graduação stricto sensu.
 DTSTART;VALUE=DATE:20160624
 DTEND;VALUE=DATE:20160624
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para registro acadêmico nos cursos de pós-graduação, para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160627
 DTEND;VALUE=DATE:20160627
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de matrícula online pelos alunos de pós-graduação stricto sensu, para o 2º período letivo de 2016 (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20160627
 DTEND;VALUE=DATE:20160627
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de matrícula presencial pelos alunos de pós-graduação lato sensu, para o 2º período letivo de 2016, nos Colegiados de Cursos.
 DTSTART;VALUE=DATE:20160627
 DTEND;VALUE=DATE:20160627
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio ao DRCA dos processos de refugiados políticos para ingresso no 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160701
 DTEND;VALUE=DATE:20160701
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado Municipal em Montes Claros: Aniversário da Cidade de Montes Claros
 DTSTART;VALUE=DATE:20160703
 DTEND;VALUE=DATE:20160703
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para registro acadêmico e matrícula dos classificados para o 2º período letivo de 2016, no Concurso Vestibular 2016 - Habilidades Específicas, conforme escala e instruções divulgadas pelo DRCA, no endereço eletrônico www.ufmg.br/drca.
 DTSTART;VALUE=DATE:20160711
 DTEND;VALUE=DATE:20160712
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Enfermagem (1933).
 DTSTART;VALUE=DATE:20160707
 DTEND;VALUE=DATE:20160707
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento de trancamento total de matrícula no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160708
 DTEND;VALUE=DATE:20160708
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:ENCERRAMENTO DO 1º PERÍODO LETIVO DE 2016
 DTSTART;VALUE=DATE:20160708
 DTEND;VALUE=DATE:20160708
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento pelos docentes, no Sistema Diário de Classe Eletrônico, dos resultados finais do 1º período letivo de 2016, em atividades acadêmicas de graduação.
 DTSTART;VALUE=DATE:20160711
 DTEND;VALUE=DATE:20160711
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de transferência para a UFMG pelos estudantes-convênio PEC-G, junto ao DRCA.
 DTSTART;VALUE=DATE:20160711
 DTEND;VALUE=DATE:20160711
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação e comunicação ao DRCA, pelos Colegiados de Cursos de Graduação, dos deferimentos de processos de reopção e rematrícula para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160711
 DTEND;VALUE=DATE:20160711
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Curso de inverno de Português como Língua Adicional, para estudantes internacionais no 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160711
 DTEND;VALUE=DATE:20160722
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento de continuidade de estudos, para início no 2º período letivo de 2016, nas Seções de Ensino.
 DTSTART;VALUE=DATE:20160713
 DTEND;VALUE=DATE:20160715
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento de dispensa de atividades acadêmicas, por aproveitamento de estudos, nos Colegiados de Cursos de Graduação, pelos alunos veteranos (Resolução CEPE nº 16/2014).
 DTSTART;VALUE=DATE:20160713
 DTEND;VALUE=DATE:20160715
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento, no Sistema Acadêmico de Graduação- Siga, pelos alunos veteranos de graduação, de matrícula do 2º período letivo de 2016 e para preenchimento de questionário de avaliação de disciplinas.
 DTSTART;VALUE=DATE:20160713
 DTEND;VALUE=DATE:20160717
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Registro acadêmico dos alunos de reopção e rematrícula para o 2º período letivo de 2016, no DRCA.
 DTSTART;VALUE=DATE:20160714
 DTEND;VALUE=DATE:20160715
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento pelos docentes, no Sistema Diário de Classe Eletrônico, dos resultados finais do 1º período letivo de 2016 em atividades acadêmicas de pós-graduação.
 DTSTART;VALUE=DATE:20160715
 DTEND;VALUE=DATE:20160715
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento pelos docentes, no Sistema Diário de Classe Eletrônico, dos resultados de exames especiais do 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160715
 DTEND;VALUE=DATE:20160715
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para colação de grau dos concluintes de graduação do 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160715
 DTEND;VALUE=DATE:20160715
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:48º Festival de Inverno da UFMG
 DTSTART;VALUE=DATE:20160715
 DTEND;VALUE=DATE:20160723
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para a divulgação dos resultados de dispensa de disciplinas dos classificados no Concurso Vestibular 2016 - Habilidades Específicas - ingressantes no 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160722
 DTEND;VALUE=DATE:20160722
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação do resultado da matrícula para o 2º período letivo de 2016 aos alunos veteranos de graduação.
 DTSTART;VALUE=DATE:20160722
 DTEND;VALUE=DATE:20160722
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para envio de requerimento de acerto de matrícula no Sistema Acadêmico de Graduação - Siga (inclusão de novas atividades) para o 2º período letivo de 2016 pelos alunos veteranos de graduação.
 DTSTART;VALUE=DATE:20160723
 DTEND;VALUE=DATE:20160726
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para a conferência, no Sistema Acadêmico de Graduação - Siga, pelos Colegiados de Cursos de Graduação, dos concluintes do 1º período letivo de 2016, com continuidade de estudos deferida para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160725
 DTEND;VALUE=DATE:20160725
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para finalização do processo seletivo para admissão aos Cursos de Pós-Graduação - stricto e lato sensu, com início das atividades previstas para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160725
 DTEND;VALUE=DATE:20160725
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite de matrícula online pelos alunos de pós-graduação stricto sensu, para o 2º período letivo de 2016 (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20160725
 DTEND;VALUE=DATE:20160725
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para a efetivação de matrículaem disciplinas de pós-graduação stricto sensu para o 2º período letivo de 2016, pelos Colegiados de Cursos de Pós-Graduação no Sistema Acadêmico de Pós-Graduação (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20160726
 DTEND;VALUE=DATE:20160726
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para registro acadêmico e matrícula dos alunos do PEC-G e refugiados políticos ingressantes no 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160726
 DTEND;VALUE=DATE:20160727
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação e comunicação ao DRCA, pelos Colegiados de Cursos de Graduação, dos deferimentos de processos de continuidade de estudos, para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160727
 DTEND;VALUE=DATE:20160727
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Semana de orientação do estudante internacional no 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160726
 DTEND;VALUE=DATE:20160728
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Acerto presencial de matrícula, pelos alunos de pós-graduação, nos Colegiados de Cursos de Pós-Graduação stricto sensu (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20160727
 DTEND;VALUE=DATE:20160728
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para a realização de matrícula presencial pelos alunos de pós-graduação lato sensu, nos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160728
 DTEND;VALUE=DATE:20160728
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Teste de nivelamento do curso de Português como Língua Adicional para estudantes internacionais no 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160728
 DTEND;VALUE=DATE:20160728
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Matrícula dos alunos de reopção e de rematrícula nos Colegiados de Cursos de Graduação.
 DTSTART;VALUE=DATE:20160729
 DTEND;VALUE=DATE:20160729
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para o lançamento de encargos didáticos para o 2º período letivo de 2016 pelos Colegiados de Cursos de Pós-Graduação, no Sistema Acadêmico de Pós-Graduação.
 DTSTART;VALUE=DATE:20160729
 DTEND;VALUE=DATE:20160729
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio ao DRCA da documentação para registro acadêmico de alunos de pós-graduação para o 2º período letivo de 2016, pelos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160729
 DTEND;VALUE=DATE:20160729
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Reformulação de matrícula dos ingressantes no 2º período letivo de 2016 do Concurso Vestibular 2016 - Habilidades Específicas - que solicitaram dispensa de atividades acadêmicas, nos Colegiados de Cursos de Graduação.
 DTSTART;VALUE=DATE:20160729
 DTEND;VALUE=DATE:20160729
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para registro acadêmico e matrícula de alunos intercambistas de graduação ingressantes no 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160729
 DTEND;VALUE=DATE:20160729
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Matrícula dos alunos de continuidade de estudos nos Colegiados de Cursos de Graduação.
 DTSTART;VALUE=DATE:20160729
 DTEND;VALUE=DATE:20160729
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para solicitação, no Sistema Acadêmico de Graduação - Siga pelos alunos veteranos de graduação, de matrícula em atividades de formação livre, para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160730
 DTEND;VALUE=DATE:20160730
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:INÍCIO DO 2º PERÍODO LETIVO DE 2016
 DTSTART;VALUE=DATE:20160801
 DTEND;VALUE=DATE:20160801
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Término do período para solicitação, no Sistema Acadêmico de Graduação - Siga pelos alunos veteranos de graduação, de matrícula em atividades de formação livre, para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160801
 DTEND;VALUE=DATE:20160801
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recepção aos calouros dos cursos de graduação
 DTSTART;VALUE=DATE:20160801
 DTEND;VALUE=DATE:20160802
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para a conferência no Sistema Acadêmico de Graduação - Siga, pelos Colegiados de Cursos de Graduação, dos concluintes do 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160802
 DTEND;VALUE=DATE:20160802
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de matrícula em disciplinas de graduação pelos alunos de pós-graduação, nas Unidades Acadêmicas responsáveis pela oferta das disciplinas.
 DTSTART;VALUE=DATE:20160802
 DTEND;VALUE=DATE:20160802
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de matrícula em disciplinas de pós-graduação pelos alunos de graduação, nos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160802
 DTEND;VALUE=DATE:20160802
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso: Evento das Olimpíadas 2016 (Somente Campus Pampulha)
 DTSTART;VALUE=DATE:20160803
 DTEND;VALUE=DATE:20160803
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação do resultado da solicitação de matrículas dos alunos veteranos de graduação em atividades de formação livre, para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160804
 DTEND;VALUE=DATE:20160804
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Matrícula presencial em disciplinas de graduação pelos alunos de pós-graduação, nas Unidades Acadêmicas responsáveis pela oferta das disciplinas.
 DTSTART;VALUE=DATE:20160804
 DTEND;VALUE=DATE:20160804
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Matrícula presencial em disciplinas de pós-graduação pelos alunos de graduação, nos Colegiados de Cursos de Pós-Graduação.
 DTSTART;VALUE=DATE:20160804
 DTEND;VALUE=DATE:20160804
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de matrícula em disciplina isolada de graduação e de pós-graduação, para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160805
 DTEND;VALUE=DATE:20160805
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Arquitetura (1930).
 DTSTART;VALUE=DATE:20160805
 DTEND;VALUE=DATE:20160805
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação dos resultados dos requerimentos de matrícula em disciplina isolada de graduação e pós-graduação para ao 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160809
 DTEND;VALUE=DATE:20160809
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período de matrícula em disciplinas isoladas de graduação e pós-graduação, para o 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20160809
 DTEND;VALUE=DATE:20160811
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso: Evento das Olimpíadas 2016 (Somente Campus Pampulha)
 DTSTART;VALUE=DATE:20160810
 DTEND;VALUE=DATE:20160810
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20160811
 DTEND;VALUE=DATE:20160811
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio, ao DRCA, da relação de alunos que concluíram a pós-graduação no 1º período letivo de 2016.
 DTSTART;VALUE=DATE:20160812
 DTEND;VALUE=DATE:20160812
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado Municipal em Belo Horizonte: Assunção de Nossa Senhora 
 DTSTART;VALUE=DATE:20160815
 DTEND;VALUE=DATE:20160815
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso: Evento das Olimpíadas 2016 (Somente Campus Pampulha)
 DTSTART;VALUE=DATE:20160816
 DTEND;VALUE=DATE:20160816
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso: Evento das Olimpíadas 2016 (Somente Campus Pampulha) 
 DTSTART;VALUE=DATE:20160820
 DTEND;VALUE=DATE:20160820
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para verificação de irregularidades nas matrículas para o 2º período letivo de 2016 - Item 62 das Normas Gerais do Ensino de Graduação.
 DTSTART;VALUE=DATE:20160822
 DTEND;VALUE=DATE:20160822
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Farmácia (1911).
 DTSTART;VALUE=DATE:20160827
 DTEND;VALUE=DATE:20160827
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20160829
 DTEND;VALUE=DATE:20160829
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para acertos nas matrículas da pós-graduação referentes ao 2º período letivo de 2016, no Sistema Acadêmico de Pós-Graduação.
 DTSTART;VALUE=DATE:20160831
 DTEND;VALUE=DATE:20160831
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para colação de grau dos concluintes do 1º período letivo de 2016, habilitados ao ENADE, que optaram por serem dispensados do exame.
 DTSTART;VALUE=DATE:20160831
 DTEND;VALUE=DATE:20160831
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para solicitação online pelos Colegiados de Cursos/Comissões Coordenadoras de Cursos  de Pós-Graduação lato sensu, de vagas e de reoferecimento de cursos para os processos seletivos do 1º e 2º períodos letivos de 2017 e 2018.
 DTSTART;VALUE=DATE:20160831
 DTEND;VALUE=DATE:20160831
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da UFMG (1927).
 DTSTART;VALUE=DATE:20160907
 DTEND;VALUE=DATE:20160907
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Independência do Brasil 
 DTSTART;VALUE=DATE:20160907
 DTEND;VALUE=DATE:20160907
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento de trancamento parcial de matrícula em atividades acadêmicas semestrais.
 DTSTART;VALUE=DATE:20160909
 DTEND;VALUE=DATE:20160909
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento, pelos alunos de graduação, de mudança de turno para o 1º período letivo de 2017, nos Colegiados de Cursos de Graduação.
 DTSTART;VALUE=DATE:20160912
 DTEND;VALUE=DATE:20160912
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para lançamento no Sistema Acadêmico de Graduação - Siga, e para comunicação ao DRCA, pelos Colegiados dos Cursos de Graduação, da relação de alunos com mudança de turno aprovada para o 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20160916
 DTEND;VALUE=DATE:20160916
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20160916
 DTEND;VALUE=DATE:20160916
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Mostra das Profissões UFMG
 DTSTART;VALUE=DATE:20160917
 DTEND;VALUE=DATE:20160917
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de inscrição ao Exame de Proficiência em Línguas Estrangeiras realizado pelo CENEX/FALE, para candidatos aos Programas de Intercâmbio Internacional da Diretoria de Relações Internacionais-DRI, conforme previsto no Edital FALE/CENEX.
 DTSTART;VALUE=DATE:20160919
 DTEND;VALUE=DATE:20160919
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para solicitação aos Colegiados de Cursos de Graduação, pelos alunos de graduação, de mudança de percurso curricular (modalidade / habilitação / ênfase), para o 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20160919
 DTEND;VALUE=DATE:20160921
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio ao DRCA dos processos deferidos de reinclusão administrativa dos alunos desligados nos termos do art. 41 do Regimento Geral da UFMG.
 DTSTART;VALUE=DATE:20160923
 DTEND;VALUE=DATE:20160923
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para análise e lançamento no Sistema Acadêmico de Graduação - Siga, pelos Colegiados de Cursos de Graduação, da mudança de percurso curricular dos alunos de graduação.
 DTSTART;VALUE=DATE:20160930
 DTEND;VALUE=DATE:20160930
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Término do período de inscrição ao Exame de Proficiência em Línguas Estrangeiras realizado pelo CENEX/FALE, para candidatos aos Programas de Intercâmbio Internacional da Diretoria de Relações Internacionais-DRI, conforme previsto no Edital FALE/CENEX.
 DTSTART;VALUE=DATE:20161004
 DTEND;VALUE=DATE:20161004
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Realização de atividades acadêmicas complementares no turno noturno (Resolução CEPE nº 13/2015, de 10/11/2015). Não ocorrerão aulas no turno noturno.
 DTSTART;VALUE=DATE:20161004
 DTEND;VALUE=DATE:20161004
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação do Instituto de Ciências Agrárias (1968).
 DTSTART;VALUE=DATE:20161011
 DTEND;VALUE=DATE:20161011
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Nossa Senhora Aparecida 
 DTSTART;VALUE=DATE:20161012
 DTEND;VALUE=DATE:20161012
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Semana do Conhecimento 
 DTSTART;VALUE=DATE:20161017
 DTEND;VALUE=DATE:20161021
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período de realização do Exame de Proficiência em Línguas Estrangeiras realizado pelo CENEX/FALE, para  candidatos aos Programas de Intercâmbio Internacional da Diretoria de Relações Internacionais - DRI, conforme previsto no Edital FALE/CENEX.
 DTSTART;VALUE=DATE:20161018
 DTEND;VALUE=DATE:20161021
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para solicitação, aos Departamentos Acadêmicos ou estruturas equivalentes, pelos Colegiados de Cursos de Pós-Graduação, da oferta de atividades acadêmicas e da alocação de encargos didáticos para o 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20161021
 DTEND;VALUE=DATE:20161021
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Escola de Educação Física, Fisioterapia e Terapia Ocupacional (1969).
 DTSTART;VALUE=DATE:20161021
 DTEND;VALUE=DATE:20161021
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar: Comemoração do Dia do Servidor Público e do Dia do Professor
 DTSTART;VALUE=DATE:20161028
 DTEND;VALUE=DATE:20161028
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar
 DTSTART;VALUE=DATE:20161029
 DTEND;VALUE=DATE:20161029
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Finados 
 DTSTART;VALUE=DATE:20161102
 DTEND;VALUE=DATE:20161102
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Divulgação do resultado do Exame de Proficiência em Línguas Estrangeiras realizado pelo CENEX/FALE, para os candidatos aos Programas de Intercâmbio Internacional da Diretoria de Relações Internacionais - DRI.
 DTSTART;VALUE=DATE:20161104
 DTEND;VALUE=DATE:20161104
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio aos Colegiados de Cursos de Pós-Graduação, pelos Departamentos Acadêmicos ou estruturas equivalentes, da oferta de atividades acadêmicas e da alocação de encargos didáticos do 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20161104
 DTEND;VALUE=DATE:20161104
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para reformulação dos planos de estudos e inclusão de atividades acadêmicas de Formação Complementar Aberta para o 1º período letivo de 2017, pelos alunos de graduação, no Sistema Acadêmico de Graduação - Siga.
 DTSTART;VALUE=DATE:20161105
 DTEND;VALUE=DATE:20161108
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para lançamento, no Sistema Acadêmico de Pós-Graduação, da oferta de atividades acadêmicas para o 1º período letivo de 2017 pelos Colegiados de Cursos de Pós-Graduação stricto e lato sensu.
 DTSTART;VALUE=DATE:20161107
 DTEND;VALUE=DATE:20161122
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para finalização, pelo DRCA, do cálculo das vagas remanescentes de graduação, referentes ao 2º período letivo de 2016, a serem ofertadas para o processo seletivo de Transferência e Obtenção de Novo Título/2017.
 DTSTART;VALUE=DATE:20161111
 DTEND;VALUE=DATE:20161111
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar
 DTSTART;VALUE=DATE:20161112
 DTEND;VALUE=DATE:20161112
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Recesso Escolar
 DTSTART;VALUE=DATE:20161114
 DTEND;VALUE=DATE:20161114
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Proclamação da República
 DTSTART;VALUE=DATE:20161115
 DTEND;VALUE=DATE:20161115
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento, nos Colegiados de Cursos, de matrícula em atividades a serem oferecidas no intervalo entre o 2º período letivo de 2016 e o 1º período letivo de 2017 (Resolução CEPE nº 13/2015, de 10/11/2015).
 DTSTART;VALUE=DATE:20161116
 DTEND;VALUE=DATE:20161118
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado Municipal em Montes Claros: Dia da Consciência Negra
 DTSTART;VALUE=DATE:20161120
 DTEND;VALUE=DATE:20161120
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para inscrição à colação de grau pelos prováveis formandos de graduação do 2º período letivo de 2016, nas Unidades Acadêmicas.
 DTSTART;VALUE=DATE:20161125
 DTEND;VALUE=DATE:20161130
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para lançamento, no Sistema Acadêmico de Pós-Graduação, do calendário para realização da matrícula online para o 1º período letivo de 2017 pelos Colegiados de Cursos de Pós-Graduação stricto sensu.
 DTSTART;VALUE=DATE:20161130
 DTEND;VALUE=DATE:20161130
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para registro acadêmico nos cursos de pós-graduação, para o 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20161201
 DTEND;VALUE=DATE:20161201
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de matrícula online pelos alunos de pós-graduação stricto sensu, para o 1º período letivo de 2017 (matrícula regular e eletiva).
 DTSTART;VALUE=DATE:20161201
 DTEND;VALUE=DATE:20161201
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período de matrícula presencial para o 1º período letivo de 2017, pelos alunos de pós-graduação lato sensu, nos Colegiados de Cursos. 
 DTSTART;VALUE=DATE:20161201
 DTEND;VALUE=DATE:20161201
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado Municipal: Imaculada Conceição 
 DTSTART;VALUE=DATE:20161208
 DTEND;VALUE=DATE:20161208
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Faculdade de Direito (1892).
 DTSTART;VALUE=DATE:20161210
 DTEND;VALUE=DATE:20161210
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Requerimento de dispensa de atividades acadêmicas, por aproveitamento de estudos, pelos alunos veteranos, nos Colegiados de Cursos de Graduação (Resolução CEPE nº 16/2014).
 DTSTART;VALUE=DATE:20161213
 DTEND;VALUE=DATE:20161214
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para requerimento de trancamento total de matrícula do 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20161214
 DTEND;VALUE=DATE:20161214
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para registro acadêmico e matrícula de alunos de pós-graduação stricto sensu selecionados por meio de fluxo contínuo, no ano de 2016.
 DTSTART;VALUE=DATE:20161214
 DTEND;VALUE=DATE:20161214
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:ENCERRAMENTO DO 2º PERÍODO LETIVO DE 2016
 DTSTART;VALUE=DATE:20161214
 DTEND;VALUE=DATE:20161214
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento pelos docentes, no Sistema Diário de Classe Eletrônico, dos resultados finais do 2º período letivo de 2016, em atividades acadêmicas de graduação.
 DTSTART;VALUE=DATE:20161215
 DTEND;VALUE=DATE:20161215
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Aniversário de fundação da Faculdade de Ciências Econômicas (1941).
 DTSTART;VALUE=DATE:20161220
 DTEND;VALUE=DATE:20161220
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento pelos docentes, no Sistema Diário de Classe Eletrônico, dos resultados finais do 2º período letivo de 2016, em atividades acadêmicas de pós-graduação.
 DTSTART;VALUE=DATE:20161222
 DTEND;VALUE=DATE:20161222
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para fechamento pelos docentes, dos resultados dos exames especiais do 2º período letivo de 2016, no Sistema Diário de Classe Eletrônico.
 DTSTART;VALUE=DATE:20161222
 DTEND;VALUE=DATE:20161222
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para colação de grau dos concluintes de graduação do 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20161222
 DTEND;VALUE=DATE:20161222
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Feriado: Natal 
 DTSTART;VALUE=DATE:20161225
 DTEND;VALUE=DATE:20161225
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Confraternização Universal
 DTSTART;VALUE=DATE:20170101
 DTEND;VALUE=DATE:20170101
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento de continuidade de estudos, para ingresso no 1º período letivo de 2017, nas Seções de Ensino.
 DTSTART;VALUE=DATE:20170103
 DTEND;VALUE=DATE:20170104
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Período para requerimento de ingresso de refugiados políticos, para entrada no 1º período letivo de 2017 (Resolução CEPE nº 03/2004).
 DTSTART;VALUE=DATE:20170104
 DTEND;VALUE=DATE:20170106
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para conferência, no Sistema Acadêmico de Graduação - Siga, pelos Colegiados de Cursos de Graduação, dos concluintes do 2º período letivo de 2016, com continuidade de estudos deferida para o 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20170116
 DTEND;VALUE=DATE:20170116
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para divulgação e comunicação ao DRCA, pelos Colegiados de Cursos de Graduação, dos requerimentos de continuidade de estudos aprovados para o 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20170118
 DTEND;VALUE=DATE:20170118
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para envio ao DRCA dos processos de refugiados políticos para ingresso no 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20170120
 DTEND;VALUE=DATE:20170120
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Data-limite para conferência, no Sistema Acadêmico de Graduação - Siga, pelos Colegiados de Cursos de Graduação, dos concluintes do 2º período letivo de 2016.
 DTSTART;VALUE=DATE:20170120
 DTEND;VALUE=DATE:20170120
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTAMP:20160731T162240Z
 SUMMARY;LANGUAGE=pt-BR:Início do período para registro acadêmico de alunos do PEC-G e refugiados políticos ingressantes no 1º período letivo de 2017.
 DTSTART;VALUE=DATE:20170125
 DTEND;VALUE=DATE:20170125
 END:VEVENT
-
+END:VCALENDAR
