@@ -100,4 +100,4 @@ for month_table in page.find_all('table'):
             ev = create_event(page, end, end, summary)
             out += ev
 
-print out.encode('utf-8')
+print out.replace('\n', '\r\n').encode('utf-8')
