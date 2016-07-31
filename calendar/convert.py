@@ -75,7 +75,7 @@ SUMMARY;LANGUAGE=pt-BR:{}
 DTSTART;VALUE=DATE:{}
 DTEND;VALUE=DATE:{}
 END:VEVENT
-'''.format(summary, start, end)
+'''.format(summary.replace('\n', '\\n'), start, end)
 
 page = BeautifulSoup(urlopen('https://www.ufmg.br/conheca/calendario.shtml'), 'html.parser')
 out = u'''BEGIN:VCALENDAR
