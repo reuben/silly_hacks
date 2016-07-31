@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 from urllib2 import urlopen
 from bs4 import BeautifulSoup, Tag
+from datetime import datetime
 import re
 
 MONTH_NAMES = [
@@ -68,17 +69,21 @@ def parse_time(elem, month, year):
     day = int(elem.string)
     return (datestr % day, datestr % day, False)
 
+NOW = datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')
+
 def create_event(soup, start, end, summary):
     return u'''
 BEGIN:VEVENT
+DTSTAMP:{}
 SUMMARY;LANGUAGE=pt-BR:{}
 DTSTART;VALUE=DATE:{}
 DTEND;VALUE=DATE:{}
 END:VEVENT
-'''.format(summary.replace('\n', '\\n'), start, end)
+'''.format(NOW, summary.replace('\n', '\\n'), start, end)
 
 page = BeautifulSoup(urlopen('https://www.ufmg.br/conheca/calendario.shtml'), 'html.parser')
 out = u'''BEGIN:VCALENDAR
+PRODID:https://github.com/reuben/silly_hacks/calendar/convert.py
 X-WR-CALNAME:{}
 VERSION:2.0
 METHOD:PUBLISH
@@ -99,5 +104,7 @@ for month_table in page.find_all('table'):
         if twodays:
             ev = create_event(page, end, end, summary)
             out += ev
+
+out += 'END:VCALENDAR'
 
 print out.replace('\n', '\r\n').encode('utf-8')
