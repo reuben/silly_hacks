@@ -40,8 +40,7 @@ DTEND;VALUE=DATE:20151115
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=pt-BR:Feriado Municipal em Montes Claros: Dia da Consciência Negra
-          Dia não letivo somente no Campus de Montes Claros
+SUMMARY;LANGUAGE=pt-BR:Feriado Municipal em Montes Claros: Dia da Consciência Negra\n          Dia não letivo somente no Campus de Montes Claros
 DTSTART;VALUE=DATE:20151120
 DTEND;VALUE=DATE:20151120
 END:VEVENT
@@ -71,8 +70,7 @@ DTEND;VALUE=DATE:20151201
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=pt-BR: Feriado Municipal em Belo Horizonte: Imaculada Conceição
-Dia não letivo somente nos Campi de Belo Horizonte
+SUMMARY;LANGUAGE=pt-BR: Feriado Municipal em Belo Horizonte: Imaculada Conceição\nDia não letivo somente nos Campi de Belo Horizonte
 DTSTART;VALUE=DATE:20151208
 DTEND;VALUE=DATE:20151208
 END:VEVENT
@@ -354,14 +352,7 @@ DTEND;VALUE=DATE:20160226
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY;LANGUAGE=pt-BR: Aniversário de criação das seguintes Unidades (1968):
-
-Faculdade de Educação;
-Faculdade de Letras;
-Instituto de Ciências Biológicas;
-Instituto de Ciências Exatas;
-Instituto de Geociências.
-
+SUMMARY;LANGUAGE=pt-BR: Aniversário de criação das seguintes Unidades (1968):\n\nFaculdade de Educação;\nFaculdade de Letras;\nInstituto de Ciências Biológicas;\nInstituto de Ciências Exatas;\nInstituto de Geociências.\n
 DTSTART;VALUE=DATE:20160228
 DTEND;VALUE=DATE:20160228
 END:VEVENT
